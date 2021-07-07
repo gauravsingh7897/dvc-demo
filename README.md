@@ -49,3 +49,5 @@ Now create load_data file to load data from source and save it and reproduce res
 ```bash
 dvc repro
 ```
+
+Splitting Data and Saved it to Prepared Folder and git add and commit and push to origin.
