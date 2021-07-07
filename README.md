@@ -27,4 +27,15 @@ git add .
 git commit -m "First Commit"
 ```
 
+Update README.md ->
+```bash
+git add . && git commit -m "Updated README.md"
+```
 
+To push into remote
+
+```bash
+git remote add origin https://github.com/gauravsingh7897/dvc-demo.git
+git branch -m Main
+git push origin main
+```
