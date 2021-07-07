@@ -7,7 +7,7 @@ data_source:
   s3_source: data_given/winequality.csv
 
 load_data:
-  raw_dataset_csv: data/original/winequality.csv
+  original_dataset_csv: data/original/winequality.csv
 
 split_data:
   train_path: data/prepared/train_winequality.csv

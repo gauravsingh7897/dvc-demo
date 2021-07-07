@@ -43,3 +43,9 @@ git push origin main
 Add parameters in params.py and commit it...
 
 create get_data function to load process data.
+
+Now create load_data file to load data from source and save it and reproduce results.
+
+```bash
+dvc repro
+```
