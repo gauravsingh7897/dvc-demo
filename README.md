@@ -27,7 +27,7 @@ git add .
 git commit -m "First Commit"
 ```
 
-Update README.md ->
+Update README.md
 ```bash
 git add . && git commit -m "Updated README.md"
 ```
@@ -39,3 +39,7 @@ git remote add origin https://github.com/gauravsingh7897/dvc-demo.git
 git branch -m Main
 git push origin main
 ```
+
+Add parameters in params.py and commit it...
+
+create get_data function to load process data.
